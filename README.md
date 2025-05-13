@@ -1,7 +1,3 @@
-Thanks for the clarification! Here’s the updated explanation that reflects you're simulating **both Tom and Jerry** as **one Git user** on a single Ubuntu machine:
-
----
-
 # Git Version Control Basics
 
 This is a simple HTML/CSS/JS portfolio website used to simulate Git collaboration between two developers: **Tom** and **Jerry**.
