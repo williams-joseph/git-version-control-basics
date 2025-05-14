@@ -84,5 +84,10 @@ Jerry pushes after merge
 
 ![Jerry Reviews PR](screenshots/jerry-PR-review.png)
 
+---
+## Final Steps
 
+After the two PRs are merged, I updated the local main branch with the `git pull` command.
+
+![Updated the local main](screenshots/git-pull.png)
 
